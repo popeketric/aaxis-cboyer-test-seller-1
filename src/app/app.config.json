@@ -1,0 +1,13 @@
+{
+  "appname": "aaxis-cboyer-test-seller-1",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "AFBDBF11-B319-4539-87D0-2425729E73B2",
+  "buyerid": "newbuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
